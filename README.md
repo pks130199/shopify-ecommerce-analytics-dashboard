@@ -8,7 +8,7 @@ An interactive business intelligence dashboard analyzing Shopify net sales, cust
 ![Shopify Analysis Dashboard](Shopify_Analysis.png)
 
 ### 2. Order & Customer Details View (Drill-Through Target)
-![Details Tab View](Details%20tab.png)
+![Details Tab View](Details%20Tab.png)
 
 ## Key Highlights & Metrics
 * **Net Sales:** $41,80,874 across **7,534** total quantity and **4,431** customers ($562.60 net average order value).
